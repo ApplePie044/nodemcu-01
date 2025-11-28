@@ -1,10 +1,15 @@
 # nodemcu-01
 ## Individuell uppgift 3.3
-## Vad är en mikroprocessor?
-En mikroprocessor är en processor som bearbetar data. En mikroprocessor Kan användas som en mobil enhet som man kan koppla till access points, databaser, WWW eller MQTT. Man kan programera mikroprocessorer till att göra olika saker och skapa kopplingar mellan två olika enheter. Mikroprocessorn används alltså som ett sätt att få två eller fler enheter att komunicera med varandra. 
+
+
+# Viktiga begrepp att kunna innan man påbörjar programering med sensorer och mikrokontroller.
+
 
 ## Vad är en mikrokontroller?
-En mikrokontroller är som en minidator. En miktrokontroller innehåller CPU (central processing unit, som processar all data), RAM (random acces memory, där datorn tillfärlligt lagrar information som när man exempelvis spelar spel eller redigerar dokument), minne/lagring (där man lagrar information som inte används i stunden) och I/O (input och output, som används för att ta in och ge ut data/information) 
+En mikrokontroller är som en minidator. En miktrokontroller innehåller CPU (central processing unit, som processar all data), RAM (random acces memory, där datorn tillfärlligt lagrar information som när man exempelvis spelar spel eller redigerar dokument), minne/lagring (där man lagrar data som inte används i stunden) och I/O (input och output, som används för att ta in och ge ut data/information)
+
+## Vad är en mikroprocessor?
+En mikroprocessor är en processor som bearbetar data. Central processing unit sker i processorn och är i formen av ett litet kort som sitter på mikrokontrollern. En mikroprocessor Kan användas som en mobil enhet som man kan koppla till access points, databaser, WWW eller MQTT. Man kan programera mikroprocessorer till att göra olika saker och skapa kopplingar mellan olika enheter. Mikroprocessorn används alltså som ett sätt att få två eller fler enheter att komunicera med varandra. 
 
 ## Två basfunktionerna i Arduino
 Det finns två basfunktioner i Arduino, ```setup``` och ```loop```. Setup är när programet kör funktoinen en gång. Se bild nedan. 
@@ -12,4 +17,5 @@ Det finns två basfunktioner i Arduino, ```setup``` och ```loop```. Setup är n�
 
 Loop är när programet kör funktionen om och om igen i en loop. Se bild nedan.
 <img width="670" height="59" alt="image" src="https://github.com/user-attachments/assets/e16e1770-38f9-4d9e-87a7-408aa76db935" />
-Gå till file, examples, 01. Basics, Blink, på Arduino för att hitta vart jag sog bilderna ifrån. 
+
+Gå till file, examples, 01. Basics, Blink, på Arduino för att hitta vart jag tog bilderna. 
